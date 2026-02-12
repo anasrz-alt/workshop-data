@@ -1,6 +1,4 @@
-To accommodate the Kaggle dataset requirement in **Notebook 2**, I have added a "Setup & Authentication" section to the README. This ensures participants have their API credentials ready before starting the workshop.
 
----
 
 # Workshop 5.3
 
