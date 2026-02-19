@@ -29,7 +29,7 @@ This workshop explores the intersection of classical engineering and deep learni
 
 ---
 
-### 2. 02_Imitation_Learning.ipynb - End-to-End Robotics
+### 2. NB02_Imitation_Learning.ipynb - End-to-End Robotics
 
 **Focus:** Mapping raw sensor data directly to motor commands for autonomous navigation.
 **Key Features:**
