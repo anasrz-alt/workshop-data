@@ -10,19 +10,24 @@ This workshop explores the intersection of classical engineering and deep learni
 
 ## 📚 Notebooks
 
-### 1. 01_Latency_Aware_Control.ipynb - PI-LSTM Compensation
 
-**Focus:** Mitigating communication delays in high-speed robotics using Physics-Informed LSTMs.
+### 1. 01_Energy_Edge_Intelligence.ipynb — Household Load Forecasting & Control
+
+**Focus:** Building an end-to-end pipeline for predicting household energy consumption and implementing autonomous load-shedding logic at the edge.
+
 **Key Features:**
 
-* **Hybrid Modeling:** Combines physics-based projection (velocity) with an LSTM residual error predictor.
-* **Control Pipeline:** Integration of Model Predictive Control (MPC) with neural corrections.
-* **Metric Tracking:** Quantitative evaluation using Euclidean error and 3D trajectory visualization.
+* **Multi-Model Benchmarking:** Comparative implementation of **Ridge Regression**, **1D-CNN**, and **GRU** models to evaluate the trade-off between traditional and deep learning approaches.
+* **Sequential Windowing:** Advanced time-series preprocessing that transforms raw tabular energy data into structured sequences for temporal pattern recognition.
+* **Edge Controller Simulation:** An interactive decision-making agent that simulates real-time "load shedding" to optimize energy distribution based on model predictions.
 
 **Learning Outcomes:**
 
-* Understand how predictive modeling compensates for hardware "overshoot."
-* Implement a hybrid physics + neural network control loop.
+* Master **windowing techniques** for preparing high-frequency sensor data for deep learning.
+* Understand the performance nuances between convolutional (CNN) and recurrent (GRU) architectures in energy forecasting.
+* Implement a **hybrid decision-loop** that translates numerical forecasts into actionable control commands for smart home systems.
+
+---
 
 ### 2. 02_Imitation_Learning.ipynb - End-to-End Robotics
 
