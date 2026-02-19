@@ -11,7 +11,7 @@ This workshop explores the intersection of classical engineering and deep learni
 ## 📚 Notebooks
 
 
-### 1. 01_Energy_Edge_Intelligence.ipynb — Household Load Forecasting & Control
+### 1. NB01_Forecasting_Control.ipynb — Household Load Forecasting & Control
 
 **Focus:** Building an end-to-end pipeline for predicting household energy consumption and implementing autonomous load-shedding logic at the edge.
 
